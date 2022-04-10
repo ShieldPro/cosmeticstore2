@@ -1,0 +1,17 @@
+body{
+	/*background-color: rgb(20, 20, 20);*/
+}
+
+.gradientColor{
+	background: rgb(203,5,199);
+	background: linear-gradient(90deg, rgba(203,5,199,1) 0%, rgba(0,166,251,1) 100%);
+}
+
+#logo{
+	border-radius: 100%;
+	padding: 5px;
+}
+
+#buttonZolty:hover{
+	background-color: #feb730 !important;
+}
